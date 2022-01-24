@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(31, 139, 103);
+    
+}
+div{
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
+button{
+transition-duration: 0.3s;
+color: goldenrod;
+background-color: white ;
+border: 2px solid goldenrod;
+font-size: 40px;
+border-radius: 12px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+button:hover{
+color:white ;
+background-color: goldenrod;
+
+}
